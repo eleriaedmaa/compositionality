@@ -5,10 +5,10 @@
 55 PVs got at least once rating "I don't know". Following files are found in the <b>datasets</b> folder.
 
 
-<b>PV_211_comp_unit_ratings.txt</b> - ratings for 211 PVs (column 1: particle verb (adverb[space]verb), column 2-21: ratings);
+<p align="justify"><b>PV_211_comp_unit_ratings.txt</b> - ratings for 211 PVs (column 1: particle verb (adverb[space]verb), column 2-21: ratings);</p>
 
-<b>PV_156_comp_unit_ratings.txt</b> - ratings for PVs that didn't get any "I don't know" rating (column 1: particle verb (adverb[space]verb), column 2-21: ratings);
+<p align="justify"><b>PV_156_comp_unit_ratings.txt</b> - ratings for PVs that didn't get any "I don't know" rating (column 1: particle verb (adverb[space]verb), column 2-21: ratings);</p>
 
-<b>PV_156_comp_unit_ratings_SD.txt</b> - ratings and standard deviation for PVs that didn't get any "I don't know" rating (column 1: particle verb (adverb[space]verb), column 2-21: ratings, column 22: value of standard deviation);
+<p align="justify"><b>PV_156_comp_unit_ratings_SD.txt</b> - ratings and standard deviation for PVs that didn't get any "I don't know" rating (column 1: particle verb (adverb[space]verb), column 2-21: ratings, column 22: value of standard deviation);</p>
 
-<b>PV_156_comp_unit_ratings_avg_SD.txt</b> - ratings, average compositionality rate, number of rates, and standard deviation for PVs that didn't get any "I don't know" rating (column 1: particle verb (adverb[space]verb), column 2-21: ratings, column 22: average rating, column 23: number of ratings, column 24: value of standard deviation);
+<p align="justify"><b>PV_156_comp_unit_ratings_avg_SD.txt</b> - ratings, average compositionality rate, number of rates, and standard deviation for PVs that didn't get any "I don't know" rating (column 1: particle verb (adverb[space]verb), column 2-21: ratings, column 22: average rating, column 23: number of ratings, column 24: value of standard deviation);</p>
