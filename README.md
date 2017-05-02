@@ -1,4 +1,4 @@
-Compositionality ratings for Estonian particle verbs
+<b>Compositionality ratings for Estonian particle verbs</b>
 
 Compositionality ratings for 211 particle verbs collected via Qualtrics: 
 
