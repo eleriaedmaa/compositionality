@@ -1,6 +1,6 @@
 <b>Compositionality ratings for Estonian particle verbs</b>
 
-<p align="justify">This is some text in a paragraph.Compositionality ratings for Estonian particle verbs collected via Qualtrics. We collected judgements for 211 PVs asking 110 judges to evaluate <b>how much the meaning of a PV agrees with the meanings of its components</b>. We collected compositionality ratings via Qualtrics, only Estonian native speakers were asked to participate. Each annotator evaluated 21 PVs on a scale from 1 (not at all) to 5 (fully), with the 6th option <i>I don't know</i> included. Each PV was evaluated at least 10, maximum 20 times.</p>
+<p align="justify">Compositionality ratings for Estonian particle verbs collected via Qualtrics. We collected judgements for 211 PVs asking 110 judges to evaluate <b>how much the meaning of a PV agrees with the meanings of its components</b>. We collected compositionality ratings via Qualtrics, only Estonian native speakers were asked to participate. Each annotator evaluated 21 PVs on a scale from 1 (not at all) to 5 (fully), with the 6th option <i>I don't know</i> included. Each PV was evaluated at least 10, maximum 20 times.</p>
 
 55 PVs got at least once rating "I don't know". Following files are found in the <b>datasets</b> folder.
 
