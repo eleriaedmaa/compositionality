@@ -2,7 +2,7 @@ Following datasets are found in the <b>datasets</b> folder.
 
 ---------
 
-<b>Compositionality ratings for Estonian particle verbs (folder Comp_ET_PV)</b>
+<b>Compositionality ratings for Estonian particle verbs (folder compositionality_ET_PV)</b>
 
 <p align="justify">Compositionality ratings for Estonian particle verbs collected via Qualtrics. We collected judgements for 211 PVs asking 110 judges to evaluate <b>how much the meaning of a PV agrees with the meanings of its components</b>. We collected compositionality ratings via Qualtrics, only Estonian native speakers were asked to participate. Each annotator evaluated 21 PVs on a scale from 1 (not at all) to 5 (fully), with the 6th option <i>I don't know</i> included. Each PV was evaluated at least 10, maximum 20 times.</p>
 
@@ -18,13 +18,13 @@ Following datasets are found in the <b>datasets</b> folder.
 
 ---------
 
-<b>Abstractness/concreteness ratings for Estonian words (folder Abstractness_ET)</b>
+<b>Abstractness/concreteness ratings for Estonian words (folder abstractness_ET)</b>
 
 File <b>abstractness_ET.csv</b> - abstractness/concreteness ratings for Estonian lemmas (column 1: WORD (indicates Estonian lemma), column 2: Rating expresses lemma's concreteness/abstractness score (higher score indicates higher concreteness), lemmas are sorted according to the score in descending order (concrete to abstract))
 
 ---------
 
-<b>Literal/non-literal usage of Estonian partcile verbs (folder Literalness_ET_PV)</b>
+<b>Literal/non-literal usage of Estonian partcile verbs (folder literalness_ET_PV)</b>
 
 File <b>literalness_ET_PV.csv</b> - dataset of literal/non-literal usage of Estonian partcile verbs
 Format: id;class;avg;sentence;particle;verb;all;objcase;objanimacy;objabs;subjcase;subjabs;nounsabs;subjanimacy;casegovernment
