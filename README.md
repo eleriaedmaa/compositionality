@@ -15,7 +15,7 @@ Following datasets are found in the <b>datasets</b> folder.
 <p align="justify"><b>File 157_comp_unit_ratings_avg_SD.csv</b> - ratings, average compositionality rate, number of rates, and standard deviation for PVs that didn't get any "I don't know" rating (column 1: particle verb (adverb[space]verb), column 2-21: ratings, column 22: average rating, column 23: number of ratings, column 24: value of standard deviation);</p>
 
 
-<b>Abstractness/concreteness ratings for Estonian words (folder Abstractness_ET)</b>
+<b>Abstractness/concreteness ratings for Estonian words (folder Literalness_ET_PV)</b>
 
 File <b>abstractness_ET.csv</b> - abstractness/concreteness ratings for Estonian lemmas (column 1: WORD (indicates Estonian lemma), column 2: Rating expresses lemma's concreteness/abstractness score (higher score indicates higher concreteness), lemmas are sorted according to the score in descending order (concrete to abstract))
 
