@@ -26,7 +26,7 @@ File <b>abstractness_ET.csv</b> - abstractness/concreteness ratings for Estonian
 
 <b>Literal/non-literal usage of Estonian partcile verbs (folder Literalness_ET_PV)</b>
 
-File PV_dataset.csv - dataset of literal/non-literal usage of Estonian partcile verbs
+File <b>literalness_ET_PV.csv</b> - dataset of literal/non-literal usage of Estonian partcile verbs
 Format: id;class;avg;sentence;particle;verb;all;objcase;objanimacy;objabs;subjcase;subjabs;nounsabs;subjanimacy;casegovernment
 
 Explanation: 
