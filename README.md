@@ -30,18 +30,33 @@ File PV_dataset.csv - dataset of literal/non-literal usage of Estonian partcile 
 Format: id;class;avg;sentence;particle;verb;all;objcase;objanimacy;objabs;subjcase;subjabs;nounsabs;subjanimacy;casegovernment
 
 Explanation: 
+
 id - number of the sentence (value: 1-1838)
+
 class - usage (according to the average score by human annotators) (value: literal or non-literal)
+
 avg - average literalness score by human annotators(value: numerical)
+
 sentence - lemmatized sentence
+
 particle - particle of the PV 
+
 verb - verbal component of the PV 
+
 all - abstractness score of all nouns in the sentence (value: numerical)
+
 objcase - case of the object of the PV in the sentence (value: nom (nominative) OR gen (genitive) OR part (partitive) OR noobj (no object in the sentence))
+
 objanimacy - animacy of the object (value: yes - object is alive OR no - object is not alive OR 0 - no object)
+
 objabs - abstrcatness score of the object of the PV (value: numerical)
+
 subjcase - case of the subject of the PV (value: nom (nominative) OR gen (genitive) OR part (partitive) OR nosubj (no subject in the sentence))
+
 subjabs - abstractness score of the subject (value: numerical)
+
 nounsabs - average abstractness score of all nouns in the sentence (value: numerical)
+
 subjanimacy - animacy of the subject (value: yes - subject is alive OR no - subject is not alive OR 0 - no subject)
+
 casegovernment - case of the argument of the verb (value: nom (nominative) OR gen (genitive) OR part (partitive) OR el (elative) OR all (allative) OR ill (illative) OR tr (translative) OR adt (short illative) OR kom (comitative) OR in (inessive) OR abl (ablative) OR ad (adessive) OR es (essive) OR 0 (no government))
