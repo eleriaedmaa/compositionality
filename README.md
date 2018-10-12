@@ -81,7 +81,7 @@ Explanation:
 
 <li>verb - verbal component of the PV 
 
-<li>unigrams - binary classification of sentences based on the unigrams feature (taking account words that appear at least 6 times)<\li>
+<li>unigrams - binary classification of sentences based on the unigrams feature (taking account words that appear at least 6 times)
 
 <li>all - abstractness score of all nouns in the sentence (value: numerical)
 
