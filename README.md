@@ -112,9 +112,9 @@ Explanation:
 
 References:
 
-Aedmaa, Eleri. 2017. Exploring Compositionality of Estonian Particle Verbs. In: Lohiniva, Karoliina; Wahle, Johannes (Ed.). Proceedings of the ESSLLI 2017 Student Session, 197−208. 29th European Summer School in Logic, Language & Information, Toulouse, France, July 17-28, 2017. Toulouse, France.
+<a href="http://www2.sfs.nphil.uni-tuebingen.de/esslli-stus-2017/preproceedings_stus_2017.pdf#page=197">Aedmaa, Eleri. 2017. Exploring Compositionality of Estonian Particle Verbs. In: Lohiniva, Karoliina; Wahle, Johannes (Ed.). Proceedings of the ESSLLI 2017 Student Session, 197−208. 29th European Summer School in Logic, Language & Information, Toulouse, France, July 17-28, 2017. Toulouse, France.</a>
 
-Aedmaa, Eleri; Köper, Maximilian; Schulte im Walde, Sabine. 2018. Combining Abstractness and Language-specific Theoretical Indicators for Detecting Non-Literal Usage of Estonian Particle Verbs. Proceedings of NAACL-HLT 2018: Student Research Workshop: The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, New Orleans, June 2018. Ed. Silvio Ricardo Cordeiro, Shereen Oraby, Umashanthi Pavalanathan, Kyeongmin Rim. New Orleans: Association for Computational Linguistics, 9−16.
+<a href="http://aclweb.org/anthology/N18-4002">Aedmaa, Eleri; Köper, Maximilian; Schulte im Walde, Sabine. 2018. Combining Abstractness and Language-specific Theoretical Indicators for Detecting Non-Literal Usage of Estonian Particle Verbs. Proceedings of NAACL-HLT 2018: Student Research Workshop: The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, New Orleans, June 2018. Ed. Silvio Ricardo Cordeiro, Shereen Oraby, Umashanthi Pavalanathan, Kyeongmin Rim. New Orleans: Association for Computational Linguistics, 9−16.</a>
 
  
 
