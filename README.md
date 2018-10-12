@@ -44,7 +44,7 @@ Explanation:
 
 <li>verb - verbal component of the PV 
 
-<li>all - abstractness score of all nouns in the sentence (value: numerical)<\li>
+<li>all - abstractness score of all nouns in the sentence (value: numerical)
 
 <li>objcase - case of the object of the PV in the sentence (value: nom (nominative) OR gen (genitive) OR part (partitive) OR noobj (no object in the sentence))
 
@@ -60,7 +60,7 @@ Explanation:
 
 <li>subjanimacy - animacy of the subject (value: yes - subject is alive OR no - subject is not alive OR 0 - no subject)
 
-<li>casegovernment - case of the argument of the verb (value: nom (nominative) OR gen (genitive) OR part (partitive) OR el (elative) OR all (allative) OR ill (illative) OR tr (translative) OR adt (short illative) OR kom (comitative) OR in (inessive) OR abl (ablative) OR ad (adessive) OR es (essive) OR 0 (no government))<\li>
+<li>casegovernment - case of the argument of the verb (value: nom (nominative) OR gen (genitive) OR part (partitive) OR el (elative) OR all (allative) OR ill (illative) OR tr (translative) OR adt (short illative) OR kom (comitative) OR in (inessive) OR abl (ablative) OR ad (adessive) OR es (essive) OR 0 (no government))
 </ul>
 
 File <b>1481_literalness_ET_PV.csv</b> - dataset of literal/non-literal usage of Estonian particle verbs, contains 1481 sentences
@@ -71,41 +71,41 @@ Explanation:
 <ul>
 <li>id - number of the sentence (value: 1-1838)
 
-<li>class - usage (according to the average score by human annotators) (value: literal or non-literal)<\li>
+<li>class - usage (according to the average score by human annotators) (value: literal or non-literal)
 
-<li>avg - average literalness score by human annotators(value: numerical)<\li>
+<li>avg - average literalness score by human annotators(value: numerical)
 
-<li>sentence - lemmatized sentence<\li>
+<li>sentence - lemmatized sentence
 
-<li>particle - particle of the PV <\li>
+<li>particle - particle of the PV 
 
-<li>verb - verbal component of the PV <\li>
+<li>verb - verbal component of the PV 
 
 <li>unigrams - binary classification of sentences based on the unigrams feature (taking account words that appear at least 6 times)<\li>
 
-<li>all - abstractness score of all nouns in the sentence (value: numerical)<\li>
+<li>all - abstractness score of all nouns in the sentence (value: numerical)
 
-<li>nounsabs - average abstractness score of all nouns in the sentence (value: numerical)<\li>
+<li>nounsabs - average abstractness score of all nouns in the sentence (value: numerical)
 
-<li>subjabs - abstractness score of the subject (value: numerical)<\li>
+<li>subjabs - abstractness score of the subject (value: numerical)
 
-<li>objabs - abstrcatness score of the object of the PV (value: numerical)<\li>
+<li>objabs - abstrcatness score of the object of the PV (value: numerical)
 
-<li>subjcase - case of the subject of the PV (value: nom (nominative) OR gen (genitive) OR part (partitive) OR nosubj (no subject in the sentence))<\li>
+<li>subjcase - case of the subject of the PV (value: nom (nominative) OR gen (genitive) OR part (partitive) OR nosubj (no subject in the sentence))
 
-<li>objcase - case of the object of the PV in the sentence (value: nom (nominative) OR gen (genitive) OR part (partitive) OR noobj (no object in the sentence))<\li>
+<li>objcase - case of the object of the PV in the sentence (value: nom (nominative) OR gen (genitive) OR part (partitive) OR noobj (no object in the sentence))
 
-<li>subjanimacy - animacy of the subject (value: yes - subject is alive OR no - subject is not alive OR 0 - no subject)<\li>
+<li>subjanimacy - animacy of the subject (value: yes - subject is alive OR no - subject is not alive OR 0 - no subject)
 
-<li>objanimacy - animacy of the object (value: yes - object is alive OR no - object is not alive OR 0 - no object)<\li>
+<li>objanimacy - animacy of the object (value: yes - object is alive OR no - object is not alive OR 0 - no object)
 
-<li>casegovernment - case of the argument of the verb (value: nom (nominative) OR gen (genitive) OR part (partitive) OR el (elative) OR all (allative) OR ill (illative) OR tr (translative) OR adt (short illative) OR kom (comitative) OR in (inessive) OR abl (ablative) OR ad (adessive) OR es (essive) OR 0 (no government))<\li>
+<li>casegovernment - case of the argument of the verb (value: nom (nominative) OR gen (genitive) OR part (partitive) OR el (elative) OR all (allative) OR ill (illative) OR tr (translative) OR adt (short illative) OR kom (comitative) OR in (inessive) OR abl (ablative) OR ad (adessive) OR es (essive) OR 0 (no government))
 
-<li>advfreq - frequency of the adverb (particle) in the corpus<\li>
+<li>advfreq - frequency of the adverb (particle) in the corpus
 
-<li>vfreq - frequency of the verb in the corpus<\li>
+<li>vfreq - frequency of the verb in the corpus
 
-<li>pvfreq - cooccurrence frequency of the adverb and verb in the corpus<\li>
+<li>pvfreq - cooccurrence frequency of the adverb and verb in the corpus
 </ul>
 
 ---------
