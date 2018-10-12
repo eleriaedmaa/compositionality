@@ -24,9 +24,10 @@ File <b>abstractness_ET.csv</b> - abstractness/concreteness ratings for Estonian
 
 ---------
 
-<b>Literal/non-literal usage of Estonian partcile verbs (folder literalness_ET_PV)</b>
+<b>Literal/non-literal usage of Estonian particle verbs (folder literalness_ET_PV)</b>
 
-File <b>literalness_ET_PV.csv</b> - dataset of literal/non-literal usage of Estonian partcile verbs
+File <b>literalness_ET_PV.csv</b> - dataset of literal/non-literal usage of Estonian particle verbs, containing 1490 sentences
+
 Format: id;class;avg;sentence;particle;verb;all;objcase;objanimacy;objabs;subjcase;subjabs;nounsabs;subjanimacy;casegovernment
 
 Explanation: 
@@ -60,3 +61,54 @@ nounsabs - average abstractness score of all nouns in the sentence (value: numer
 subjanimacy - animacy of the subject (value: yes - subject is alive OR no - subject is not alive OR 0 - no subject)
 
 casegovernment - case of the argument of the verb (value: nom (nominative) OR gen (genitive) OR part (partitive) OR el (elative) OR all (allative) OR ill (illative) OR tr (translative) OR adt (short illative) OR kom (comitative) OR in (inessive) OR abl (ablative) OR ad (adessive) OR es (essive) OR 0 (no government))
+
+File <b>1481_literalness_ET_PV.csv</b> - dataset of literal/non-literal usage of Estonian particle verbs, contains 1481 sentences
+Format: id;class;avg;sentence;particle;verb;unigrams;all;nounsabs;subjabs;objabs;subjcase;objcase;objanimacy;subjanimacy;casegovernment;advfreq;vfreq;pvfreq
+
+Explanation: 
+
+id - number of the sentence (value: 1-1838)
+
+class - usage (according to the average score by human annotators) (value: literal or non-literal)
+
+avg - average literalness score by human annotators(value: numerical)
+
+sentence - lemmatized sentence
+
+particle - particle of the PV 
+
+verb - verbal component of the PV 
+
+unigrams - binary classification of sentences based on the unigrams feature (taking account words that appear at least 6 times)
+
+all - abstractness score of all nouns in the sentence (value: numerical)
+
+nounsabs - average abstractness score of all nouns in the sentence (value: numerical)
+
+subjabs - abstractness score of the subject (value: numerical)
+
+objabs - abstrcatness score of the object of the PV (value: numerical)
+
+subjcase - case of the subject of the PV (value: nom (nominative) OR gen (genitive) OR part (partitive) OR nosubj (no subject in the sentence))
+
+objcase - case of the object of the PV in the sentence (value: nom (nominative) OR gen (genitive) OR part (partitive) OR noobj (no object in the sentence))
+
+subjanimacy - animacy of the subject (value: yes - subject is alive OR no - subject is not alive OR 0 - no subject)
+
+objanimacy - animacy of the object (value: yes - object is alive OR no - object is not alive OR 0 - no object)
+
+casegovernment - case of the argument of the verb (value: nom (nominative) OR gen (genitive) OR part (partitive) OR el (elative) OR all (allative) OR ill (illative) OR tr (translative) OR adt (short illative) OR kom (comitative) OR in (inessive) OR abl (ablative) OR ad (adessive) OR es (essive) OR 0 (no government))
+
+advfreq - frequency of the adverb (particle) in the corpus
+
+vfreq - frequency of the verb in the corpus
+
+pvfreq - cooccurrence frequency of the adverb and verb in the corpus
+
+
+
+ 
+
+
+
+
